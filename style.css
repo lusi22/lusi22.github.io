@@ -1,0 +1,14 @@
+th {
+    background-color: blueviolet;
+    text-align: center;
+    
+}
+
+body {
+    background-color: rgb(222, 194, 153);
+
+}
+
+table, th, td {
+    border: 2px solid rgb(54, 5, 51);
+  }
